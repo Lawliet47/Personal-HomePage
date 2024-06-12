@@ -11,7 +11,7 @@
   Showcase
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IshankaDSenevirathne/Cyberpunk_2077/main/logo.jpg" width="40%" align="center" >
+  <img src="https://github.com/Lawliet47/Personal-HomePage/blob/main/Screenshot%202024-06-13%20at%2000.04.23.png?raw=true" width="40%" align="center" >
 </p>
 <p align="left">
 :sparkles: I've loved the option to bookmark pages and websites, but once you get several of them, there is no way around finding them, hence I organized it in a homepage.   
